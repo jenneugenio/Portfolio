@@ -1,11 +1,18 @@
 .container {
   text-align: center;
+  background-color: light-blue;
 }
 
 .img {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .list {
   text-align: left;
+}
+
+.section {
+  border-style: double;
+  margin: 20px;
+  padding: 10px;
 }
