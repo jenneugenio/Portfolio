@@ -10,7 +10,7 @@ This is a simple HTML webpage that show the elements learned in Epicodus or Week
 
 ## Setup/Installation Requirements
 
-* To open this webpage, simply go to the following link: https://github.com/jenneugenio/Portfolio_
+* To open this webpage, simply go to the following link: https://jenneugenio.github.io/Portfolio/
 
 ## Known Bugs
 
